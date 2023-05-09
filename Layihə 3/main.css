@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto';
+}
+
+.div1 {
+    width: 1152px;
+    height: 700px;
+    border: 1px solid #C4C4C4;
+}
+
+.div2 {
+    width: 1150px;
+    height: 50px;
+    background-color: #F5F5F6;
+    display: flex;
+}
+
+.bank {
+    width: 89px;
+    height: 23px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+ul {
+    margin-left: 64px;
+    list-style-type: none;
+    display: flex;
+}
+
+li {
+    padding: 13px;
+}
+
+.item1 {
+    color:black;
+    font-weight: 900;
+}
+
+.item2 {
+    color: #959BA4;
+}
+
+.div3 {
+    width: 84px;
+    height: 29px;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    margin-left: 87px;
+    margin-top: 9px;
+}
+
+.p1 {
+    font-weight: 900;
+    padding-top: 3px;
+    padding-left: 4px;
+    font-size: 16px;
+}
+
+.p2 {
+    color: #9F9F9F;
+}
+
+.div5 {
+    margin-top: 10px;
+}
+
+.div4 {
+    width: 259px;
+    height: 30px;
+    border: 1px solid #E5E5E5;
+    display: flex;
+    margin-top: 7px;
+}
+
+.container {
+    width: 900px;
+    margin: 100px auto;
+}
+
+.btn {
+    width: 25%;
+    height: 100%;
+    background-color: transparent;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: darkviolet;
+    color: white;
+}
+
+.btn-active {
+    background-color: darkviolet;
+    color: white;
+}
+
+.div7 {
+    width: 259px;
+    height: 102px;
+    border: 1px solid #E5E5E5;
+    margin-top: 13px;
+}
+
+.change1 {
+    margin-top: 35px;
+    margin-left: 16px;
+    color: #9F9F9F;
+}
+
+.input1 {
+    width: 100%;
+    height: 38px;
+    font-size: 36px;
+    border: none;
+}
+
+.p3 {
+    color: #9F9F9F;
+}
+
+.div9 {
+    display: flex;
+}
+
+.div10 {
+    width: 259px;
+    height: 30px;
+    border: 1px solid #E5E5E5;
+    display: flex;
+    margin-top: 7px;
+}
+.div11 {
+    width: 259px;
+    height: 102px;
+    border: 1px solid #E5E5E5;
+    margin-top: 13px;
+}
+
+.input2 {
+    width: 100%;
+    height: 38px;
+    font-size: 36px;
+    border: none;
+}
+
+.change2 {
+    margin-top: 35px;
+    margin-left: 16px;
+    color: #9F9F9F;
+}
+
+.div8 {
+    margin-left: 190px;
+    margin-top: 8px;
+}
